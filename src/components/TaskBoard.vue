@@ -4,8 +4,7 @@
       my Trello
     </header>
     <main>
-      <p class="info-line">All: 0 tasks</p>
-      <!-- ★ここから追記 -->
+      <p class="info-line">total: {{ totalCardInBoard }}</p>
       <div class="list-index">
         <TaskList v-for="(item, index) in lists"
               :key="item.id"
@@ -33,6 +32,9 @@ export default {
     ...mapState([
       'lists'
     ]),
+    totalCardInBoard() {
+      return this.$store.getters.totalCardCount
+    }
   },
 }
 </script>
