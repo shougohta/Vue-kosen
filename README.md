@@ -24,7 +24,9 @@ https://trello.com/ja?campaign=19269516454&adgroup=148159499447&targetid=kwd-345
 ### ステップ1：NG改修
 
 ・リストごとのカードの総数を計算する
+
 ・カードの総数を計算する
+
 ・PR：https://github.com/shougohta/Vue-kosen/pull/1
 
 ### ステップ2：NG改修
