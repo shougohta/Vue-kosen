@@ -7,7 +7,7 @@
 
 <script>
 // ★インポート文を追加
-import Board from './components/Board.vue'
+import Board from './components/TaskBoard.vue'
 
 export default {
   name: 'app',
