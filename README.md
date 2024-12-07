@@ -27,9 +27,16 @@ https://trello.com/ja?campaign=19269516454&adgroup=148159499447&targetid=kwd-345
 
 ・カードの総数を計算する
 
-・PR：https://github.com/shougohta/Vue-kosen/pull/1
+・コミットID：e186777d6cb4d06b50262b045eab612b61cd4b60
 
-### ステップ2：NG改修
+### ステップ2：新規機能
+
+・カードのドラッグ&ドロップ
+
+・コミットID：467789d4af99ffaf254b07e6ee41e7b5a67e21ff
+
+### ステップ3：未定
+
 
 
 
